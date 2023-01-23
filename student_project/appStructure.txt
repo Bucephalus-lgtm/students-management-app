@@ -1,0 +1,21 @@
+● student_project
+|
++---● student_register (app folder)
+|   |
+|   +--● migrations (includes files related to migrations)
+|   |  
+|   +--● templates
+|   |  |--● student_register
+|   |  |  |--base.html
+|   |  |  |--student_form.html
+|   |  |  |--student_list.html
+|   | 
+|   |-- models.py
+|   |-- forms.py
+|   |-- urls.py
+|   |-- views.py
+|
++---● student_project (project folder)
+|   |
+|   |--settings.py 
+|   |--urls.py
